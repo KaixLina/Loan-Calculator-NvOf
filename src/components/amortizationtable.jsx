@@ -14,14 +14,14 @@ const AmortizationTable = ({ schedule, currency }) => {
 
       <TableContainer
         sx={{
-          overflowX: "auto", // Only the table scrolls
+          overflowX: "auto",
           borderRadius: 2,
         }}
       >
         <Table
           stickyHeader
           sx={{
-            minWidth: isMobile ? 600 : "100%", // Force horizontal scroll on mobile
+            minWidth: isMobile ? 600 : "100%",
           }}
         >
           <TableHead>

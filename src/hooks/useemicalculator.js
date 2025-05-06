@@ -1,4 +1,3 @@
-// src/hooks/useEMICalculator.js
 import { useState } from "react";
 
 export const useEMICalculator = () => {

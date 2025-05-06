@@ -10,9 +10,21 @@ It calculates loan payments interactively while providing a smooth and engaging 
 ## 🚀 Features
 
 - 🔢 **Dynamic Loan Calculation** – Instant results as you enter loan amount, interest rate, and term.
-- 🖼️ **Lottie Animations** – Visually engaging animations for pages like **About** and **404**.
+- 🖼️ **Lottie Animations** – Visually engaging animations on multiple pages.
 - 📱 **Responsive Design** – Fully mobile-friendly and optimized for various devices.
-- 🚫 **Custom 404 Page** – Beautiful not-found page to handle broken links gracefully.
+- ❗ **Custom 404 Page** – A beautifully animated not-found page.
+- 📄 **About Page** – Includes a clean animated layout with a **“Coming Soon!”** message and Lottie visuals.
+
+---
+
+## 🧭 About Page
+
+The **About** page is a work in progress – it currently features:
+
+- 🧩 A fun **Lottie animation** to keep the user engaged
+- 🕒 A clear "Coming Soon!" message using Material UI's elegant layout system
+
+This page is designed to expand later into a full section with details about the tool’s purpose, team, and future features.
 
 ---
 

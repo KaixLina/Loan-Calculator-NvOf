@@ -1,11 +1,9 @@
-// src/pages/AboutPage.jsx
-
 import React from "react";
 import Navbar from "./navbar";
 import { Container, Typography, Box } from "@mui/material";
 import Lottie from "lottie-react";
-import comingSoonAnimation from "../assets/commingsoon.json"; // put your animation here
-
+import comingSoonAnimation from "../assets/commingsoon.json";
+//used an lottie animation
 const AboutPage = () => {
   return (
     <>

@@ -1,4 +1,3 @@
-// src/components/EMICalculator.jsx
 import React, { useState } from "react";
 import { Container, Grid, TextField, Button, Typography, MenuItem, Paper, Box, Select, FormControl, InputLabel } from "@mui/material";
 import { useEMICalculator } from "../hooks/useemicalculator";
